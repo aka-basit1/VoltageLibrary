@@ -1,0 +1,1 @@
+[{"id":1,"bookId":6,"title":"Sofia and the Hedgehog","readerId":1,"readerName":"Basit Ali","readerPhone":"03001231231","issuedAt":"2026-10-21T11:07:10.669Z","dueAt":"2026-11-05T11:07:10.669Z","status":"lost","fee":100,"fine":0,"lostCharge":650,"returnedAt":"2026-10-21T11:08:53.115Z"}]
